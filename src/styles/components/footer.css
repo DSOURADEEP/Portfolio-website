@@ -1,0 +1,7 @@
+.footer {
+  padding: 2rem 10%;
+  text-align: center;
+  font-size: 0.9rem;
+  background: var(--bg-card);
+  border-top: var(--border);
+}

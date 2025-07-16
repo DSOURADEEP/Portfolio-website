@@ -1,0 +1,52 @@
+/* src/styles/components/experience.css */
+#experience {
+  padding: 4rem 10%;
+}
+
+.section-title {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.experience-grid {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.experience-card {
+  background: var(--bg-card);
+  border: var(--border);
+  border-radius: 16px;
+  padding: 1.8rem;
+  backdrop-filter: blur(10px);
+  transition: transform 0.3s;
+}
+
+.experience-card:hover {
+  transform: translateY(-6px);
+}
+
+.company {
+  font-size: 1.4rem;
+  margin-bottom: 0.3rem;
+}
+
+.role {
+  font-weight: 600;
+  opacity: 0.85;
+  margin-bottom: 0.3rem;
+}
+
+.duration {
+  font-size: 0.9rem;
+  opacity: 0.7;
+  margin-bottom: 1rem;
+}
+
+.description {
+  line-height: 1.6;
+}
