@@ -11,7 +11,11 @@ export default function Education() {
     },
     {
       name: 'AWS Cloud Security Foundations',
-      link: '#', // add later
+      link: 'https://drive.google.com/file/d/1LHxZBNxEd2Efu8abV5nBpl3Tkr1MdeHM/view?usp=drive_link', 
+    },
+    {
+      name: 'Data Analytics - Deloitte',
+      link: 'https://drive.google.com/file/d/1VGfka-SNh3n7ZJIO51DdA8PTNDVv0QoV/view?usp=drive_link',
     },
   ];
 
