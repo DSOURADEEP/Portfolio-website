@@ -9,18 +9,18 @@ export const projects = [
     title: 'Full-Stack Banking System',
     tech: ['Spring Boot', 'React.js', 'MySQL'],
     desc: 'Account management, fund transfer, loan & EMI scheduler.',
-    demo: '#', // add later
+    demo: 'In collaboration with Accenture', 
   },
   {
     title: 'Skin Cancer Detection',
     tech: ['Python', 'Flask', 'CNNs', 'Grad-CAM'],
     desc: 'ResNet50 + DenseNet ensemble with explainable heatmaps.',
-    live: '#', // add later
+    live: '#', 
   },
   {
     title: 'PDF Translation ChatBot',
     tech: ['Python', 'Flask'],
     desc: 'A web application that translates PDF documents from multiple languages to English, with user authentication and chat history features.',
-    demo: '#', // add later
+    demo: 'In collaboration with Accenture', 
   },
 ];
