@@ -21,6 +21,6 @@ export const projects = [
     title: 'PDF Translation ChatBot',
     tech: ['Python', 'Flask'],
     desc: 'A web application that translates PDF documents from multiple languages to English, with user authentication and chat history features.',
-    demo: 'In collaboration with Accenture', 
+    demo: 'https://github.com/DSOURADEEP/PDF_TRANSLATOR_BOT', 
   },
 ];
